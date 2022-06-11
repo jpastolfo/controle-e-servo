@@ -9,14 +9,6 @@
 // Date of creation: 11/06/2022
 //
 
-x = int(100*rand(1, 5))
-
-A = int(100*rand(4, 4))
-
-y = x'
-
-B = A'
-
-z = rand(1, 5)
-
-C = grand(4, 4, 'unf', 1, 9999)
+function[p] = funcTeste(t)
+    p = t^2 + sin(2*t) + 50
+end
