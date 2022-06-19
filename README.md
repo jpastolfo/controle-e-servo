@@ -4,7 +4,8 @@ Esse repositório contém os códigos utilizados para o desenvolvimento da disci
 
 ## Práticas
 
-[Prática 01 - Revisão Scilab](Pratica01)
+- [Prática 01 - Revisão Scilab](Pratica01)
+- [Prática 02 - Revisão XCOS](Pratica02)
 
 ## Autores
 
