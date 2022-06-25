@@ -6,6 +6,7 @@ Esse repositório contém os códigos utilizados para o desenvolvimento da disci
 
 - [Prática 01 - Revisão Scilab](Pratica01)
 - [Prática 02 - Revisão XCOS](Pratica02)
+- [Prática 03 - Simulação de modelos de sistemas elétricos](Pratica03)
 
 ## Autores
 
